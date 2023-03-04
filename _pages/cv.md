@@ -43,6 +43,10 @@ redirect_from:
 
 ## Training
 
+* Winter 2023: **The Evolution of Functional Verification: SystemVerilog, UVM, and Portable Stimulus** (Tutorial) at Asia and South Pacific Design Automation Conference
+    * Automation as part of a verification environment to maximize productivity
+    * Limitations of UVM for developing verification environments
+
 * Summer 2021: **SECDEF -- Genetic and Evolutionary Computation in Defense, Security, and Risk Management** (Workshop) at Genetic and Evolutionary Computation Conference
     * Cybercrime and cyberdefense: attack prevention and defense
     * IT security: attack detection, monitoring and network traffic analysis
