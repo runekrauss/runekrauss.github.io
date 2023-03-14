@@ -18,7 +18,7 @@ redirect_from:
 
 * Since 2017: **Student Tutor / Teaching Assistant** at University of Bremen
     * Supervision of study courses in implementation and examination of tutorials, and teaching w.r.t. special lectures
-    * Revision of the study course *Technical Computer Science 1* by creating and improving worksheets
+    * Revision of the study course *Computer Engineering 1* by creating and improving worksheets
     * Preparation of a study course *Graphenbasierte Funktionsdarstellung* by creating slides and worksheets
 
 * 2017--2022: **Research Assistant** at German Research Center for Artificial Intelligence
