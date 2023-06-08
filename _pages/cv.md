@@ -43,6 +43,10 @@ redirect_from:
 
 ## Training
 
+* Spring 2023: **RRAMs: How to Guarantee Their Quality After Manufacturing?** (Tutorial) at International Symposium on Design and Diagnostics of Electronic Circuits and Systems
+    * Memristive devices and RRAM fault models
+    * Manufacturing test strategies for RRAMs
+
 * Winter 2023: **The Evolution of Functional Verification: SystemVerilog, UVM, and Portable Stimulus** (Tutorial) at Asia and South Pacific Design Automation Conference
     * Automation as part of a verification environment to maximize productivity
     * Limitations of UVM for developing verification environments
