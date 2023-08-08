@@ -43,6 +43,10 @@ redirect_from:
 
 ## Training
 
+* Summer 2023: **Repetitive Processes and Their Surrogate-Model Congruent Encoding for Evolutionary Algorithms** (Workshop) at Genetic and Evolutionary Computation Conference
+    * Encoding, operators, and surrogate model for problem solving
+    * Discussion of open problems and outlook
+
 * Spring 2023: **RRAMs: How to Guarantee Their Quality After Manufacturing?** (Tutorial) at International Symposium on Design and Diagnostics of Electronic Circuits and Systems
     * Memristive devices and RRAM fault models
     * Manufacturing test strategies for RRAMs
@@ -116,6 +120,8 @@ redirect_from:
     * Waterfall Model: **expert**
 
 ## Honors and Awards
+
+* 2023: Faculty Award from [University of Bremen](https://www.uni-bremen.de) for an outstanding Master's thesis *Memory-Efficient Construction of Binary Decision Diagrams for Logic Synthesis and Verification by Exploiting Ordering Properties*
 
 * 2017: 1st place for [Best Project](https://github.com/runekrauss/gradelog) -- implemented according to [Oberschule Ronzelenstr.](https://ronzelen.schule.bremen.de/) requirements -- of the student course *Software-Projekt 2* at University of Bremen
 
