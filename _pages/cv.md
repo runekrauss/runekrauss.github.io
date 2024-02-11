@@ -121,7 +121,9 @@ redirect_from:
 
 ## Honors and Awards
 
-* 2023: Faculty Award from [University of Bremen](https://www.uni-bremen.de) for an outstanding Master's thesis *Memory-Efficient Construction of Binary Decision Diagrams for Logic Synthesis and Verification by Exploiting Ordering Properties*
+* 2023: Faculty Award from [University of Bremen](https://uni-bremen.de) for an outstanding Master's thesis *Memory-Efficient Construction of Binary Decision Diagrams for Logic Synthesis and Verification by Exploiting Ordering Properties*
+
+* 2023: Thesis Award (nomination) from [unifreunde](https://unifreun.de) for an outstanding Master's thesis *Memory-Efficient Construction of Binary Decision Diagrams for Logic Synthesis and Verification by Exploiting Ordering Properties*
 
 * 2017: 1st place for [Best Project](https://github.com/runekrauss/gradelog) -- implemented according to [Oberschule Ronzelenstr.](https://ronzelen.schule.bremen.de/) requirements -- of the student course *Software-Projekt 2* at University of Bremen
 
