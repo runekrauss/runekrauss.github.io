@@ -79,7 +79,9 @@ redirect_from:
     * Spanish: **intermediate**
 * Computer Architecture
     * Decision Diagrams: **expert**
-    * Formal Verification: **very good**
+    * Formal Verification: **expert**
+    * RISC-V: **very good**
+    * Circuit Testing: **very good**
     * Logic Synthesis: **very good**
     * Field-Coupled Nanocomputing: **basic**
 * Machine Learning / Data Science
