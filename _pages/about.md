@@ -17,4 +17,4 @@ I'm also working on **evolutionary optimization** by artificial intelligences su
 
 Furthermore, I've experience in information security, compiler construction, media design as well as economics.
 
-Besides many other things, in my free time I like to play chess and football, trade stocks, travel around the world, and try to improve my photographic skills.
+Besides the voluntary work as a company first aider, in my free time I like to play chess and football, trade stocks, travel around the world, and try to improve my photographic skills.
