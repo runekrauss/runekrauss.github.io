@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rune Krauss"
 title_separator          : "-"
 name                     : &name "Rune Krauss"
-description              : &description "Researcher / Ph.D. Student at University of Bremen"
+description              : &description "Researcher / Ph.D. Student at DFKI / University of Bremen"
 url                      : https://runekrauss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "runekrauss/runekrauss.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rune Krauss"
   avatar           : "profile.png"
-  bio              : "Researcher / Ph.D. Student at University of Bremen"
+  bio              : "Researcher / Ph.D. Student at DFKI / University of Bremen"
   location         : "Bremen, Germany"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "krauss@uni-bremen.de"
+  email            : "rune.krauss@dfki.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

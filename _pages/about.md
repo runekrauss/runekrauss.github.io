@@ -9,7 +9,7 @@ redirect_from:
 
 Hi!
 
-I'm a Researcher / Ph.D. Student at the [Group of Computer Architecture](https://informatik.uni-bremen.de/agra/eng/) in the Department of Computer Science and Mathematics at University of Bremen.
+I'm a Researcher with the Cyber-Physical Systems Department of the [German Research Center for Artificial Intelligence](https://dfki.de/en/web/research/research-departments/cyber-physical-systems) (DFKI) and a Doctoral Student in Computer Science and Mathematics at the [University of Bremen](https://uni-bremen.de/en/fb3).
 
 My research and teaching interests include logic synthesis, testing of circuits/systems, and **formal verification** by model checking and equivalence checking to ensure the correctness of circuits, especially using decision diagrams. The main goals of my work are their algorithmic improvement and the development of novel graph-based data structures to increase the efficiency of computer-aided design for integrated circuits in terms of runtime and memory.
 

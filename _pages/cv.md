@@ -11,7 +11,11 @@ redirect_from:
 
 ## Work Experience
 
-* Since 2022: **Researcher** at University of Bremen
+* Since 2024: **Researcher** at DFKI
+    * Development of an open-source chip design infrastructure for semiconductor manufacturing
+    * Design and pilot run of a semiconductor prototype for a student competition *Open Chip Design Challenge*
+
+* 2022--2024: **Researcher** at University of Bremen
     * Polynomial formal verification with the use of decision diagram packages such as *Engineer Decision Diagrams Yourself* (EDDY) to ensure the correctness of integrated circuits
     * Scalable evolutionary optimization for solving machine learning problems using artificial intelligences such as *Artificial Life Form* (ALF)
     * Reviews of research papers in *Electronic Design Automation* and *Bioinspired Optimization Methods*
@@ -21,7 +25,7 @@ redirect_from:
     * Revision of the study course *Computer Engineering 1* by creating and improving worksheets
     * Preparation of a study course *Graphenbasierte Funktionsdarstellung* by creating slides and worksheets
 
-* 2017--2022: **Research Assistant** at German Research Center for Artificial Intelligence
+* 2017--2022: **Research Assistant** at DFKI
     * Neuroevolution through semantic speciation and genetic optimizations for self-interpretable agents
     * Cluster analysis for evolution of symbiotic neural networks combined with supervised learning to detect bugs
 
