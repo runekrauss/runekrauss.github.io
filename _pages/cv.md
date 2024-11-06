@@ -47,6 +47,10 @@ redirect_from:
 
 ## Training
 
+* Fall 2024: **Basic Course in Data Privacy** (Seminar) at University of Bremen
+    * Technological and organizational security measures
+    * Behavior in the event of a data breach
+
 * Summer 2023: **Repetitive Processes and Their Surrogate-Model Congruent Encoding for Evolutionary Algorithms** (Workshop) at Genetic and Evolutionary Computation Conference
     * Encoding, operators, and surrogate model for problem solving
     * Discussion of open problems and outlook
