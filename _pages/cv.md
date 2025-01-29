@@ -47,6 +47,10 @@ redirect_from:
 
 ## Training
 
+* Winter 2025: **Accelerated Machine Learning** (Workshop) at High Performance Embedded Architectures and Compilers Conference
+    * ML training scalability challenges
+    * Accelerating access to data storage and services in the age of AI
+
 * Fall 2024: **Basic Course in Data Privacy** (Seminar) at University of Bremen
     * Technological and organizational security measures
     * Behavior in the event of a data breach
