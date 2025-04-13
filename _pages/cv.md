@@ -47,6 +47,10 @@ redirect_from:
 
 ## Training
 
+* Spring 2025: **Securing the Future: Designing Built-in-Security Enabled Photonic AI Chip** (Tutorial) at Design, Automation and Test in Europe Conference
+    * Silicon photonics design for AI-like applications
+    * Security vulnerabilities and example solutions
+
 * Winter 2025: **Accelerated Machine Learning** (Workshop) at High Performance Embedded Architectures and Compilers Conference
     * ML training scalability challenges
     * Accelerating access to data storage and services in the age of AI
